@@ -1,0 +1,10 @@
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.csproj.AssemblyReference.cache
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.Form1.resources
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.Properties.Resources.resources
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.csproj.GenerateResource.cache
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.csproj.CoreCompileInputs.cache
+D:\UNitTest_CT_43\UNitTest_CT_43\bin\Debug\UNitTest_CT_43.exe.config
+D:\UNitTest_CT_43\UNitTest_CT_43\bin\Debug\UNitTest_CT_43.exe
+D:\UNitTest_CT_43\UNitTest_CT_43\bin\Debug\UNitTest_CT_43.pdb
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.exe
+D:\UNitTest_CT_43\UNitTest_CT_43\obj\Debug\UNitTest_CT_43.pdb
